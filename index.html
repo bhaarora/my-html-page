@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Counter App</title>
+</head>
+<body>
+    <h1>Click Counter</h1>
+    <button onclick="increment()">Click Me</button>
+    <p>Count: <span id="counter">0</span></p>
+    
+    <script>
+        let count = 0;
+        
+        function increment() {
+            count++;
+            document.getElementById("couter").innerHTML = count;
+        }
+    </script>
+</body>
+</html>
