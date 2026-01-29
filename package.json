@@ -1,0 +1,25 @@
+{
+  "name": "clawd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teampremiermay2025/buggy-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teampremiermay2025/buggy-demo/issues"
+  },
+  "homepage": "https://github.com/teampremiermay2025/buggy-demo#readme",
+  "description": "This is a sample Node.js application",
+  "dependencies": {
+    "express": "^5.2.1",
+    "playwright": "^1.58.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,1861 @@
+WEBVTT
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/6-0
+00:00:05.579 --> 00:00:08.419
+<v Bharat Arora>Yeah, recording is started at this.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/7-0
+00:00:12.219 --> 00:00:15.288
+<v KUTTIMANI PANNEERSELVAN>Yeah,
+we talked about build reconciliation,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/7-1
+00:00:15.288 --> 00:00:19.892
+<v KUTTIMANI PANNEERSELVAN>right? Continuation. Lucy,
+what we are proposing here is go back,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/7-2
+00:00:19.892 --> 00:00:20.939
+<v KUTTIMANI PANNEERSELVAN>go to slide #9.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/8-0
+00:00:21.019 --> 00:00:21.379
+<v KUTTIMANI PANNEERSELVAN>No.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/9-0
+00:00:22.099 --> 00:00:22.619
+<v Bharat Arora>Shook.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/10-0
+00:00:25.299 --> 00:00:29.286
+<v KUTTIMANI PANNEERSELVAN>Once we build the platform,
+our idea is you know,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/10-1
+00:00:29.286 --> 00:00:34.550
+<v KUTTIMANI PANNEERSELVAN>we can take over or or we are proposing
+to take over the support,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/10-2
+00:00:34.550 --> 00:00:38.139
+<v KUTTIMANI PANNEERSELVAN>the application maintenance and support
+for.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/12-0
+00:00:40.099 --> 00:00:45.023
+<v KUTTIMANI PANNEERSELVAN>Emulations and the 24 apps.
+In that way the resources you know who is</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/12-1
+00:00:45.023 --> 00:00:50.581
+<v KUTTIMANI PANNEERSELVAN>supporting can be feed up to do other
+work. Lucy, here is the rough, you know,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/12-2
+00:00:50.581 --> 00:00:55.013
+<v KUTTIMANI PANNEERSELVAN>very high level timeline,
+very similar to what we had done for</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/12-3
+00:00:55.013 --> 00:00:56.139
+<v KUTTIMANI PANNEERSELVAN>Intelli collect.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/13-0
+00:00:56.419 --> 00:00:57.779
+<v KUTTIMANI PANNEERSELVAN>This will cover both.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/14-0
+00:00:56.419 --> 00:01:01.723
+<v Curran, Emily Lucille>Yeah. So, so I think that conversation is,
+is you're gonna need Laura, not me.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/15-0
+00:01:00.419 --> 00:01:05.379
+<v KUTTIMANI PANNEERSELVAN>Sure. Yeah, yeah. Sure. Got it.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/14-1
+00:01:01.723 --> 00:01:03.939
+<v Curran, Emily Lucille>It's her team that does that, so.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/16-0
+00:01:09.859 --> 00:01:15.270
+<v KUTTIMANI PANNEERSELVAN>And then you know we will will or we will
+enhance you know whatever we're building</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/16-1
+00:01:15.270 --> 00:01:16.379
+<v KUTTIMANI PANNEERSELVAN>a stage and tick.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/17-0
+00:01:17.779 --> 00:01:21.508
+<v KUTTIMANI PANNEERSELVAN>We will expand to support apps as well as
+emulation. That's the thought process,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/17-1
+00:01:21.508 --> 00:01:21.739
+<v KUTTIMANI PANNEERSELVAN>Lucy.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/18-0
+00:01:23.739 --> 00:01:24.379
+<v Curran, Emily Lucille>Um, OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/19-0
+00:01:29.059 --> 00:01:33.179
+<v Curran, Emily Lucille>Just looking at these.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/20-0
+00:01:34.219 --> 00:01:34.499
+<v KUTTIMANI PANNEERSELVAN>So.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/21-0
+00:01:35.659 --> 00:01:39.310
+<v Bharat Arora>Yeah,
+the part one was how we transition while</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/21-1
+00:01:39.310 --> 00:01:45.059
+<v Bharat Arora>maintaining the platform and you know,
+setting up the foundations for for</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/21-2
+00:01:45.059 --> 00:01:48.944
+<v Bharat Arora>agentic transformation that is powered by
+AW 2.0.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/21-3
+00:01:48.944 --> 00:01:51.819
+<v Bharat Arora>So this is a rough schedule and then.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/23-0
+00:01:51.899 --> 00:01:58.180
+<v Bharat Arora>This slides talk about at the very high
+level about how we are going to build</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/23-1
+00:01:58.180 --> 00:02:03.979
+<v Bharat Arora>upon reconciliation framework and build
+all the emulations on it. Lucy.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/24-0
+00:02:06.099 --> 00:02:09.487
+<v Curran, Emily Lucille>OK. So, so sorry,
+are you proposing that you take that you</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/24-1
+00:02:09.487 --> 00:02:12.819
+<v Curran, Emily Lucille>take over the work or that you build
+what's on the right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/25-0
+00:02:13.899 --> 00:02:19.147
+<v Bharat Arora>So initially we start with transitioning
+as is form of emulation and support it</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/25-1
+00:02:19.147 --> 00:02:22.755
+<v Bharat Arora>and support all the ad hoc requests,
+maintenance, etc.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/25-2
+00:02:22.755 --> 00:02:27.412
+<v Bharat Arora>Parallelly we'll start building,
+leveraging the same framework that we</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/25-3
+00:02:27.412 --> 00:02:32.135
+<v Bharat Arora>have built for reconciliation.
+We'll start building and moving over all</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/25-4
+00:02:32.135 --> 00:02:33.579
+<v Bharat Arora>the legacy emulations.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/26-0
+00:02:33.659 --> 00:02:38.182
+<v Bharat Arora>To this framework so that we are future
+ready and strategically aligned from</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/26-1
+00:02:38.182 --> 00:02:41.765
+<v Bharat Arora>technology standpoint.
+Similarly for emulations and same for</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/26-2
+00:02:41.765 --> 00:02:42.059
+<v Bharat Arora>apps.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/27-0
+00:02:44.779 --> 00:02:45.219
+<v Curran, Emily Lucille>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/29-0
+00:02:48.859 --> 00:02:53.242
+<v Curran, Emily Lucille>Yeah, I think,
+I think this requires Laura because yeah,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/29-1
+00:02:53.242 --> 00:02:59.241
+<v Curran, Emily Lucille>she's this is her. These are her apps.
+I don't disagree per se with anything,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/29-2
+00:02:59.241 --> 00:03:03.548
+<v Curran, Emily Lucille>but she's the.
+I don't have the power to say yes on any</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/29-3
+00:03:03.548 --> 00:03:04.779
+<v Curran, Emily Lucille>of this or even.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/31-0
+00:03:04.779 --> 00:03:08.436
+<v Curran, Emily Lucille>So I I would if this is the only
+conversation topic today,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/31-1
+00:03:08.436 --> 00:03:11.659
+<v Curran, Emily Lucille>I would say we need to probably wait for
+for Laura.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/30-0
+00:03:11.619 --> 00:03:12.699
+<v KUTTIMANI PANNEERSELVAN>Yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/32-0
+00:03:13.859 --> 00:03:17.379
+<v Bharat Arora>And any feedback on our approach, uh,
+Lucy?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/33-0
+00:03:20.499 --> 00:03:22.899
+<v Curran, Emily Lucille>Um, no.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/34-0
+00:03:25.019 --> 00:03:27.899
+<v Curran, Emily Lucille>No, I don't think so.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/36-0
+00:03:30.819 --> 00:03:36.704
+<v Bharat Arora>When one one word or one line vision is
+we want to converge all the routes right</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/35-0
+00:03:36.699 --> 00:03:36.819
+<v Curran, Emily Lucille>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/36-1
+00:03:36.704 --> 00:03:42.444
+<v Bharat Arora>where Laura and team are engaged across
+multiple emulation, various use cases,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/36-2
+00:03:42.444 --> 00:03:45.786
+<v Bharat Arora>HVDS,
+cloud infrastructure to and converge it</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/36-3
+00:03:45.786 --> 00:03:50.001
+<v Bharat Arora>to the framework,
+the strategic framework we are building</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/36-4
+00:03:50.001 --> 00:03:50.219
+<v Bharat Arora>on.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/37-0
+00:03:50.219 --> 00:03:53.643
+<v Bharat Arora>Workflow, all agentic, all AI,
+all converged, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/37-1
+00:03:53.643 --> 00:03:55.259
+<v Bharat Arora>That's a high level goal.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/38-0
+00:03:57.339 --> 00:03:57.979
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/39-0
+00:03:59.419 --> 00:04:04.497
+<v Curran, Emily Lucille>I mean can ask AT&amp;
+T workflows handle all of the the</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/39-1
+00:04:04.497 --> 00:04:05.299
+<v Curran, Emily Lucille>workload?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/40-0
+00:04:05.299 --> 00:04:08.083
+<v Bharat Arora>Right.
+So basically they are the agentic</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/40-1
+00:04:08.083 --> 00:04:12.430
+<v Bharat Arora>framework which have a intelligence to
+comprehend and you know,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/40-2
+00:04:12.430 --> 00:04:17.592
+<v Bharat Arora>pivot the execution logic right as
+compared to the traditional programming.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/40-3
+00:04:17.592 --> 00:04:21.939
+<v Bharat Arora>We are all in legacy from work for any
+enhancement or anything.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/41-0
+00:04:22.219 --> 00:04:26.297
+<v Bharat Arora>We have to write the code,
+but these these will be the intelligent</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/41-1
+00:04:26.297 --> 00:04:31.045
+<v Bharat Arora>agents who would be able to serve the
+request and call the specialized tools,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/41-2
+00:04:31.045 --> 00:04:33.906
+<v Bharat Arora>right?
+Say for example we could write API only</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/41-3
+00:04:33.906 --> 00:04:38.653
+<v Bharat Arora>framework for the billers who have API
+and also at the same time we can reuse</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/41-4
+00:04:38.653 --> 00:04:41.819
+<v Bharat Arora>whatever emulations we have, right?
+So that that's.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/42-0
+00:04:42.059 --> 00:04:47.463
+<v Bharat Arora>How we are converging and you know
+reusing leveraging this right.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/42-1
+00:04:47.463 --> 00:04:53.850
+<v Bharat Arora>So they they they are as good as human
+working in today's world and also they</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/42-2
+00:04:53.850 --> 00:04:57.699
+<v Bharat Arora>can they can you know do the task of
+whatever.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/44-0
+00:04:58.179 --> 00:05:03.154
+<v Bharat Arora>Legacy application do right.
+Currently today we have to hop across</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/44-1
+00:05:03.154 --> 00:05:07.758
+<v Bharat Arora>multiple applications.
+So with this framework we want to show</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/44-2
+00:05:07.758 --> 00:05:12.659
+<v Bharat Arora>along with the data we want to show the
+next best action as well.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/45-0
+00:05:14.939 --> 00:05:17.699
+<v Bharat Arora>When we build for application.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/46-0
+00:05:24.419 --> 00:05:25.059
+<v Bharat Arora>HD.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/48-0
+00:05:33.819 --> 00:05:36.019
+<v KUTTIMANI PANNEERSELVAN>Still trying to join the wise, I think.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/51-0
+00:05:36.259 --> 00:05:43.118
+<v WINCKLER, STEVE P>Did you find a spot, Cootie? So Lucy,
+Lucy, Cootie and I are both in Bothell,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/49-0
+00:05:38.299 --> 00:05:40.179
+<v KUTTIMANI PANNEERSELVAN>Yeah, I have a.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/51-1
+00:05:43.118 --> 00:05:48.219
+<v WINCKLER, STEVE P>but we both randomly ran into each other
+in Dallas today.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/50-0
+00:05:45.899 --> 00:05:49.539
+<v Curran, Emily Lucille>Nice. That's funny.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/52-0
+00:05:47.299 --> 00:05:53.219
+<v KUTTIMANI PANNEERSELVAN>Yeah, I will 1321 Steve, if you would,
+if you want to stop by.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/53-0
+00:05:55.139 --> 00:05:57.739
+<v WINCKLER, STEVE P>Oh, I wander around,
+see if I can even find it.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/54-0
+00:05:57.819 --> 00:05:58.979
+<v KUTTIMANI PANNEERSELVAN>I I will come over one second.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/55-0
+00:06:03.499 --> 00:06:04.739
+<v WINCKLER, STEVE P>That's OK, I'll wander.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/60-0
+00:06:19.339 --> 00:06:21.879
+<v WINCKLER, STEVE P>Well,
+I feel like I just walked up to somebody</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/60-1
+00:06:21.879 --> 00:06:25.932
+<v WINCKLER, STEVE P>at a party and everyone stops talking.
+Like here, here, here, he's coming,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/59-0
+00:06:24.179 --> 00:06:25.379
+<v Curran, Emily Lucille>Right. Uh.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/60-2
+00:06:25.932 --> 00:06:28.419
+<v WINCKLER, STEVE P>he's coming. So wherever you are,
+keep going.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/61-0
+00:06:28.299 --> 00:06:32.358
+<v Curran, Emily Lucille>So essentially, I mean,
+Brian and Cooty and team were they're</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/61-1
+00:06:32.358 --> 00:06:37.073
+<v Curran, Emily Lucille>proposing a transition of all the apps
+and emulations to themselves for</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/62-0
+00:06:36.579 --> 00:06:40.779
+<v WINCKLER, STEVE P>Did you guys call each other ahead and
+wear the same shirt on purpose?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/61-2
+00:06:37.073 --> 00:06:37.859
+<v Curran, Emily Lucille>maintenance.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/64-0
+00:06:43.139 --> 00:06:46.499
+<v WINCKLER, STEVE P>Those are nice. I like those.
+I need to find myself finding them.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/63-0
+00:06:43.499 --> 00:06:44.419
+<v Bharat Arora>Yeah, so.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/67-0
+00:06:47.379 --> 00:06:50.779
+<v WINCKLER, STEVE P>Go ahead, make sure I'm on mute.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/66-0
+00:06:50.179 --> 00:06:50.539
+<v Curran, Emily Lucille>Start.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/68-0
+00:06:52.579 --> 00:06:56.339
+<v WINCKLER, STEVE P>I'm currently getting escorted by Kuti.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/69-0
+00:06:57.379 --> 00:06:58.899
+<v WINCKLER, STEVE P>To the principal's office.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/70-0
+00:06:59.579 --> 00:06:59.859
+<v Bharat Arora>Thanks.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/73-0
+00:07:17.019 --> 00:07:18.779
+<v KUTTIMANI PANNEERSELVAN>Everything on, yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/74-0
+00:07:19.539 --> 00:07:21.739
+<v KUTTIMANI PANNEERSELVAN>Able to hear us, Bharat Lucy.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/75-0
+00:07:20.779 --> 00:07:22.859
+<v Bharat Arora>Yeah, yeah, yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/76-0
+00:07:23.779 --> 00:07:25.870
+<v KUTTIMANI PANNEERSELVAN>Uh,
+Lucy brought an update on the build</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/76-1
+00:07:25.870 --> 00:07:28.746
+<v KUTTIMANI PANNEERSELVAN>reconciliation.
+She's trying to push it through. Yeah,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/76-2
+00:07:28.746 --> 00:07:31.099
+<v KUTTIMANI PANNEERSELVAN>we we were on a call today about that,
+yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/77-0
+00:07:32.059 --> 00:07:35.379
+<v KUTTIMANI PANNEERSELVAN>And you know,
+and there's something Billy Lucy</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/77-1
+00:07:35.379 --> 00:07:38.699
+<v KUTTIMANI PANNEERSELVAN>mentioned that is in the backlog of CDO
+Billy.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/78-0
+00:07:39.659 --> 00:07:44.733
+<v KUTTIMANI PANNEERSELVAN>That's the A solution. Billy. What?
+I can't. I'm not understanding. Billy.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/78-1
+00:07:44.733 --> 00:07:45.139
+<v KUTTIMANI PANNEERSELVAN>Billy.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/79-0
+00:07:44.979 --> 00:07:50.391
+<v Curran, Emily Lucille>Oh, essentially I was updating them.
+Someone had told Kuti about that use case</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/79-1
+00:07:50.391 --> 00:07:54.365
+<v Curran, Emily Lucille>that Lee had mentioned and there's no
+update here, Steve.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/81-0
+00:07:52.899 --> 00:07:57.295
+<v KUTTIMANI PANNEERSELVAN>Oh, yeah, yeah. OK.
+The conversation that we had today with,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/79-2
+00:07:54.365 --> 00:07:57.859
+<v Curran, Emily Lucille>I was just explaining to them that we're
+the yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/81-1
+00:07:57.295 --> 00:08:00.683
+<v KUTTIMANI PANNEERSELVAN>yeah,
+with Trevor and whatnot and collect with</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/81-2
+00:08:00.683 --> 00:08:05.224
+<v KUTTIMANI PANNEERSELVAN>Lee and yes, that. OK. Yeah,
+that's why I was worried too. OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/80-0
+00:08:02.339 --> 00:08:02.899
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/81-3
+00:08:05.224 --> 00:08:07.819
+<v KUTTIMANI PANNEERSELVAN>I just wasn't. I wasn't sure of the.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/82-0
+00:08:07.819 --> 00:08:11.959
+<v KUTTIMANI PANNEERSELVAN>Where do you? Oh yeah, OK,
+looks like eventually. OK,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/82-1
+00:08:11.959 --> 00:08:17.480
+<v KUTTIMANI PANNEERSELVAN>so this one will reconciliation,
+keeping it apart for the emulation and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/82-2
+00:08:17.480 --> 00:08:22.464
+<v KUTTIMANI PANNEERSELVAN>the apps piece we are proposing.
+We take all the AMS part of it,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/82-3
+00:08:22.464 --> 00:08:27.219
+<v KUTTIMANI PANNEERSELVAN>application maintenance and support for
+emulation as well as.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/83-0
+00:08:27.339 --> 00:08:31.099
+<v KUTTIMANI PANNEERSELVAN>The 24 apps take over support of it,
+but leave them where they are.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/83-1
+00:08:31.099 --> 00:08:34.970
+<v KUTTIMANI PANNEERSELVAN>Leave them where where they,
+I mean take over the support assets. OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/83-2
+00:08:34.970 --> 00:08:38.122
+<v KUTTIMANI PANNEERSELVAN>And then we will build the target
+solution for this. OK,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/83-3
+00:08:38.122 --> 00:08:41.329
+<v KUTTIMANI PANNEERSELVAN>That's what we want.
+Which were the ones we talked about.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/83-4
+00:08:41.329 --> 00:08:44.979
+<v KUTTIMANI PANNEERSELVAN>Same thing we talked about before in the
+platform, correct? Yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/84-0
+00:08:45.779 --> 00:08:49.684
+<v KUTTIMANI PANNEERSELVAN>And then ideally, you know,
+if we want to do, I know Laura's sick,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/84-1
+00:08:49.684 --> 00:08:53.299
+<v KUTTIMANI PANNEERSELVAN>yeah, today and then going on vacation,
+right? She wanted to.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/85-0
+00:08:54.259 --> 00:08:56.813
+<v KUTTIMANI PANNEERSELVAN>Meet next Friday, not this Friday,
+the next Friday. OK,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/85-1
+00:08:56.813 --> 00:09:00.189
+<v KUTTIMANI PANNEERSELVAN>I look at it to know what we got.
+So that's what we thought of running by</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/85-2
+00:09:00.189 --> 00:09:02.379
+<v KUTTIMANI PANNEERSELVAN>you and Lucy and get some feedbacks to
+you, OK?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/86-0
+00:09:04.859 --> 00:09:08.617
+<v KUTTIMANI PANNEERSELVAN>But I mean, I just solution wise,
+it's the same solution we talked about.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/86-1
+00:09:08.617 --> 00:09:11.259
+<v KUTTIMANI PANNEERSELVAN>Yeah, OK, yeah, nothing new. Nothing new.
+Yeah, OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/87-0
+00:09:11.099 --> 00:09:16.026
+<v Bharat Arora>Yeah, this is our transition approach,
+right? And while transitioning,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/87-1
+00:09:16.026 --> 00:09:21.440
+<v Bharat Arora>we'll document and maintain and we'll
+keep keep the emulation steady security</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/87-2
+00:09:21.440 --> 00:09:25.535
+<v Bharat Arora>and compliance wise.
+We talked about auto deletion and all</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/87-3
+00:09:25.535 --> 00:09:26.299
+<v Bharat Arora>this stuff.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/88-0
+00:09:26.379 --> 00:09:32.743
+<v Bharat Arora>We'll do while maintaining and parallelly
+we'll get prepared for submitting the use</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/88-1
+00:09:32.743 --> 00:09:38.274
+<v Bharat Arora>case for agentic transformation and this
+is what we are going to enhance</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/88-2
+00:09:38.274 --> 00:09:44.486
+<v Bharat Arora>leveraging the framework that we are we
+are proposing to build for reconciliation</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/88-3
+00:09:44.486 --> 00:09:45.699
+<v Bharat Arora>use case, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/89-0
+00:09:46.019 --> 00:09:46.099
+<v Bharat Arora>Um.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/90-0
+00:09:47.099 --> 00:09:52.596
+<v KUTTIMANI PANNEERSELVAN>We do we have a list of what's like what,
+14 simulations, 14 simulations,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/90-1
+00:09:52.596 --> 00:09:57.499
+<v KUTTIMANI PANNEERSELVAN>13 I guess if you don't count bill
+reconciliation, but you would.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/91-0
+00:09:58.739 --> 00:10:03.350
+<v KUTTIMANI PANNEERSELVAN>Regardless of the decision to to do the
+the building fancy automation of build</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/91-1
+00:10:03.350 --> 00:10:05.918
+<v KUTTIMANI PANNEERSELVAN>reconciliation,
+you're still including bill</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/91-2
+00:10:05.918 --> 00:10:10.646
+<v KUTTIMANI PANNEERSELVAN>reconciliation in this proposal. Correct.
+OK, maybe it'll take some time, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/91-3
+00:10:10.646 --> 00:10:14.965
+<v KUTTIMANI PANNEERSELVAN>Yeah, yeah. But but either way,
+it's not 13 and then one, it's just 1414.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/91-4
+00:10:14.965 --> 00:10:17.592
+<v KUTTIMANI PANNEERSELVAN>Yeah.
+And the difference is it's more 14 and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/91-5
+00:10:17.592 --> 00:10:18.059
+<v KUTTIMANI PANNEERSELVAN>one and.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/92-0
+00:10:18.099 --> 00:10:22.434
+<v KUTTIMANI PANNEERSELVAN>One in particular,
+we might evolve as a really compelling</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/92-1
+00:10:22.434 --> 00:10:28.637
+<v KUTTIMANI PANNEERSELVAN>case into something cool. So for those 14,
+I know you guys have done the analysis.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/92-2
+00:10:28.637 --> 00:10:31.179
+<v KUTTIMANI PANNEERSELVAN>Do we have? Is it possible to put?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/94-0
+00:10:32.419 --> 00:10:37.985
+<v KUTTIMANI PANNEERSELVAN>Into that like say these six have this
+critical flaw that from a CSO and and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/94-1
+00:10:37.985 --> 00:10:40.299
+<v KUTTIMANI PANNEERSELVAN>perspective we have to go solve.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/95-0
+00:10:41.939 --> 00:10:45.922
+<v Bharat Arora>Yeah, sure.
+Most most of them do not have this shared</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/95-1
+00:10:45.922 --> 00:10:49.979
+<v Bharat Arora>drive encrypted and this is common
+pattern across all.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/96-0
+00:10:49.579 --> 00:10:53.832
+<v KUTTIMANI PANNEERSELVAN>Yeah. So I think if we have like,
+I'm thinking just even like a simple</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/96-1
+00:10:53.832 --> 00:10:58.266
+<v KUTTIMANI PANNEERSELVAN>dashboard of sorts, like a table.
+But where I'm going with that and Lucy,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/96-2
+00:10:58.266 --> 00:11:01.740
+<v KUTTIMANI PANNEERSELVAN>it's for you too,
+where I'm going with that is this might</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/96-3
+00:11:01.740 --> 00:11:02.939
+<v KUTTIMANI PANNEERSELVAN>be a scenario where.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/97-0
+00:11:04.179 --> 00:11:06.450
+<v KUTTIMANI PANNEERSELVAN>Move them over.
+And then there's this first phase,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/97-1
+00:11:06.450 --> 00:11:09.835
+<v KUTTIMANI PANNEERSELVAN>there's this, there's this hot list.
+We have to go do this hot list, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/97-2
+00:11:09.835 --> 00:11:13.531
+<v KUTTIMANI PANNEERSELVAN>That if we put that in front of somebody,
+nobody's going to argue they're going to</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/97-3
+00:11:13.531 --> 00:11:16.827
+<v KUTTIMANI PANNEERSELVAN>find the money for because it's too big
+of a risk if we don't right these</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/97-4
+00:11:16.827 --> 00:11:20.389
+<v KUTTIMANI PANNEERSELVAN>critical flaws that we have to go address.
+And then there might be the and also</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/97-5
+00:11:20.389 --> 00:11:23.819
+<v KUTTIMANI PANNEERSELVAN>there's an opportunity for us to make
+them more efficient, more easily used.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/98-0
+00:11:23.939 --> 00:11:30.026
+<v KUTTIMANI PANNEERSELVAN>Usable even before going to the Ask ATT
+model. And then there's also an Ask ATTT,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/98-1
+00:11:30.026 --> 00:11:34.480
+<v KUTTIMANI PANNEERSELVAN>right? So for me,
+steps one and two or does it Step 2 exist</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/98-2
+00:11:34.480 --> 00:11:38.340
+<v KUTTIMANI PANNEERSELVAN>is my question.
+If step three is moving to Ask ATT,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/98-3
+00:11:38.340 --> 00:11:40.939
+<v KUTTIMANI PANNEERSELVAN>we've got this cool pattern, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/99-0
+00:11:41.459 --> 00:11:45.301
+<v KUTTIMANI PANNEERSELVAN>And then step zero is move them and leave
+them how they are. Correct.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/99-1
+00:11:45.301 --> 00:11:49.747
+<v KUTTIMANI PANNEERSELVAN>So that that's my continuum, right? Yep.
+Step one is fix the critical flaws. OK,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/99-2
+00:11:49.747 --> 00:11:54.357
+<v KUTTIMANI PANNEERSELVAN>but fix them in place without asking TT.
+Correct. Step 2 is do bill reconciliation.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/99-3
+00:11:54.357 --> 00:11:58.419
+<v KUTTIMANI PANNEERSELVAN>Enhance not even bill reconciliation,
+but I'm thinking across the 14. OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/100-0
+00:11:59.139 --> 00:12:03.755
+<v KUTTIMANI PANNEERSELVAN>Improve the existing solutions in place
+before going to ask ATT.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/100-1
+00:12:03.755 --> 00:12:07.236
+<v KUTTIMANI PANNEERSELVAN>And then step three is ask ATT.
+And I say steps.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/100-2
+00:12:07.236 --> 00:12:12.208
+<v KUTTIMANI PANNEERSELVAN>We don't necessarily have to do all three
+steps because we might not.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/100-3
+00:12:12.208 --> 00:12:14.339
+<v KUTTIMANI PANNEERSELVAN>People might not support that.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/101-0
+00:12:15.539 --> 00:12:20.043
+<v KUTTIMANI PANNEERSELVAN>But I think it makes sense to at least
+get us to Step 2 and step one to fix</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/101-1
+00:12:20.043 --> 00:12:24.369
+<v KUTTIMANI PANNEERSELVAN>critical flaws. So is there a Step 2?
+Are there things that you guys are</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/101-2
+00:12:24.369 --> 00:12:28.933
+<v KUTTIMANI PANNEERSELVAN>proposing we would want to do to these
+emulations, improve them in in place,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/101-3
+00:12:28.933 --> 00:12:30.059
+<v KUTTIMANI PANNEERSELVAN>I would say, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/102-0
+00:12:30.819 --> 00:12:32.059
+<v KUTTIMANI PANNEERSELVAN>Or not really.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/103-0
+00:12:33.419 --> 00:12:33.499
+<v Bharat Arora>Uh.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/104-0
+00:12:33.459 --> 00:12:38.259
+<v KUTTIMANI PANNEERSELVAN>Do we have any any anything identified
+like a quick hits, quick wins?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/106-0
+00:12:37.899 --> 00:12:45.259
+<v Bharat Arora>Quick hits is like encryption and auto
+deletion all the CSO requirement for the.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/108-0
+00:12:43.539 --> 00:12:46.467
+<v KUTTIMANI PANNEERSELVAN>I'm putting that, yeah.
+And I'm putting that in step one.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/108-1
+00:12:46.467 --> 00:12:50.304
+<v KUTTIMANI PANNEERSELVAN>That is step one, right? Step 2.
+Do we have anything before we take to AAW?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/107-0
+00:12:47.659 --> 00:12:48.299
+<v Bharat Arora>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/108-2
+00:12:50.304 --> 00:12:54.242
+<v KUTTIMANI PANNEERSELVAN>Anything we can do to improve in place?
+And if the answer is no, that's fine.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/108-3
+00:12:54.242 --> 00:12:57.977
+<v KUTTIMANI PANNEERSELVAN>Yeah. It just doesn't exist, right?
+It's just we go from step one to step</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/108-4
+00:12:57.977 --> 00:12:59.139
+<v KUTTIMANI PANNEERSELVAN>three, basically, yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/109-0
+00:12:59.379 --> 00:13:01.806
+<v KUTTIMANI PANNEERSELVAN>So does that make sense about what I'm
+asking?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/109-1
+00:13:01.806 --> 00:13:05.939
+<v KUTTIMANI PANNEERSELVAN>I'm or or even Lucy 'cause I'm kind of
+just making this up, but the idea being?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/110-0
+00:13:07.379 --> 00:13:15.507
+<v KUTTIMANI PANNEERSELVAN>Step one would be rectify any any
+critical security flaw type stuff.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/110-1
+00:13:15.507 --> 00:13:22.339
+<v KUTTIMANI PANNEERSELVAN>Encryption using a personal using a
+personal personal ID.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/111-0
+00:13:22.779 --> 00:13:26.259
+<v KUTTIMANI PANNEERSELVAN>Not deleting the files.
+To me all of that is like.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/112-0
+00:13:27.539 --> 00:13:29.919
+<v KUTTIMANI PANNEERSELVAN>I mean,
+if I'm trying to get money for this,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/112-1
+00:13:29.919 --> 00:13:32.511
+<v KUTTIMANI PANNEERSELVAN>I'm pitching this as if someone doesn't
+fund it,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/112-2
+00:13:32.511 --> 00:13:35.579
+<v KUTTIMANI PANNEERSELVAN>they're accepting the security risk,
+not me, right? Yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/113-0
+00:13:37.299 --> 00:13:40.187
+<v KUTTIMANI PANNEERSELVAN>So beyond that,
+is there anything else we would suggest</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/113-1
+00:13:40.187 --> 00:13:43.539
+<v KUTTIMANI PANNEERSELVAN>if we were going to improve it in place
+before going to ask ATT?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/115-0
+00:13:44.019 --> 00:13:50.239
+<v Bharat Arora>Self-service. Can we say self-service?
+Because instead of reaching out to Sean</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/115-1
+00:13:50.239 --> 00:13:54.254
+<v Bharat Arora>and team,
+can we can we bring in that self-service</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/114-0
+00:13:51.899 --> 00:13:52.299
+<v KUTTIMANI PANNEERSELVAN>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/115-2
+00:13:54.254 --> 00:13:58.979
+<v Bharat Arora>from the sources of where it comes from
+and and that's the.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/116-0
+00:13:59.059 --> 00:14:01.739
+<v Bharat Arora>You know, bigger area that we can attack.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/117-0
+00:14:01.539 --> 00:14:05.255
+<v KUTTIMANI PANNEERSELVAN>And can we do that without going to the
+whole AI governance,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/117-1
+00:14:05.255 --> 00:14:09.459
+<v KUTTIMANI PANNEERSELVAN>ask ATT governance stuff?
+Or is that what requires going to ask ATT?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/118-0
+00:14:10.579 --> 00:14:15.219
+<v Bharat Arora>Yeah, we have to think. Yeah, good.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/119-0
+00:14:10.699 --> 00:14:14.780
+<v KUTTIMANI PANNEERSELVAN>For self-service,
+no self-service with self-service,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/119-1
+00:14:14.780 --> 00:14:18.630
+<v KUTTIMANI PANNEERSELVAN>but we can do in the current assets
+itself right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/119-2
+00:14:18.630 --> 00:14:24.637
+<v KUTTIMANI PANNEERSELVAN>By staying as this we can still bring
+some automation to enable self-service,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/119-3
+00:14:24.637 --> 00:14:25.099
+<v KUTTIMANI PANNEERSELVAN>right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/121-0
+00:14:25.619 --> 00:14:29.198
+<v Bharat Arora>Right, right.
+So we will be removing Sean putting a</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/121-1
+00:14:29.198 --> 00:14:34.499
+<v Bharat Arora>hand on it and by simple triggers we can
+bring a common framework where self</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/120-0
+00:14:31.819 --> 00:14:31.939
+<v KUTTIMANI PANNEERSELVAN>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/121-2
+00:14:34.499 --> 00:14:40.281
+<v Bharat Arora>cigarette service can be attained whoever
+requesting it instead of reaching to Sean</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/121-3
+00:14:40.281 --> 00:14:43.379
+<v Bharat Arora>because it depends upon Sean's bandwidth
+to.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/122-0
+00:14:43.379 --> 00:14:45.899
+<v Bharat Arora>Address them, right?
+That's the thing we can solve.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/123-0
+00:14:45.859 --> 00:14:53.099
+<v KUTTIMANI PANNEERSELVAN>Kind of like similar pattern to what we
+talked about for the that that.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/124-0
+00:14:54.779 --> 00:14:57.579
+<v KUTTIMANI PANNEERSELVAN>That what's that database we had to keep
+In Sync?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/125-0
+00:14:58.379 --> 00:14:59.379
+<v Bharat Arora>Uh, no.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/127-0
+00:14:59.619 --> 00:15:02.131
+<v KUTTIMANI PANNEERSELVAN>Arms. No, that that stupid arms process.
+Yeah,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/127-1
+00:15:02.131 --> 00:15:06.460
+<v KUTTIMANI PANNEERSELVAN>where every a bunch of humans touched it
+and we're like we don't even have we we</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/127-2
+00:15:06.460 --> 00:15:10.789
+<v KUTTIMANI PANNEERSELVAN>would say automate some of that workflow.
+I think that's what you're saying that</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/127-3
+00:15:10.789 --> 00:15:14.851
+<v KUTTIMANI PANNEERSELVAN>that Step 2 might look like is where we
+maybe automate some of the existing</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/127-4
+00:15:14.851 --> 00:15:17.523
+<v KUTTIMANI PANNEERSELVAN>emulations,
+automate them from a a a process flow</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/127-5
+00:15:17.523 --> 00:15:18.699
+<v KUTTIMANI PANNEERSELVAN>sort of point of view.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/126-0
+00:15:19.819 --> 00:15:19.979
+<v Bharat Arora>Break.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/128-0
+00:15:20.019 --> 00:15:22.409
+<v KUTTIMANI PANNEERSELVAN>OK.
+And we feel like we have to do that</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/128-1
+00:15:22.409 --> 00:15:24.859
+<v KUTTIMANI PANNEERSELVAN>anyway in order to get to ask ATT, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/129-0
+00:15:25.019 --> 00:15:25.339
+<v Bharat Arora>Yes.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/130-0
+00:15:26.059 --> 00:15:26.459
+<v KUTTIMANI PANNEERSELVAN>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/131-0
+00:15:27.859 --> 00:15:31.459
+<v KUTTIMANI PANNEERSELVAN>Lucy did all that track with you 'cause I
+just kinda made that stuff up.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/133-0
+00:15:31.339 --> 00:15:34.883
+<v Curran, Emily Lucille>Not really, to be honest.
+So I've kind of lost track of the</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/132-0
+00:15:34.659 --> 00:15:35.299
+<v KUTTIMANI PANNEERSELVAN>It.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/133-1
+00:15:34.883 --> 00:15:36.419
+<v Curran, Emily Lucille>conversation a little bit.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/135-0
+00:15:36.339 --> 00:15:39.954
+<v KUTTIMANI PANNEERSELVAN>All right, I can, I can.
+I'll just try to recap it and and now</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/135-1
+00:15:39.954 --> 00:15:44.200
+<v KUTTIMANI PANNEERSELVAN>that we kind of had the conversation,
+I'm putting things in terms of like</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/135-2
+00:15:44.200 --> 00:15:47.414
+<v KUTTIMANI PANNEERSELVAN>phasing or iteration steps,
+not knowing how much along,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/135-3
+00:15:47.414 --> 00:15:51.259
+<v KUTTIMANI PANNEERSELVAN>how much far along the continuum people
+would want to fund, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/136-0
+00:15:51.379 --> 00:15:54.722
+<v KUTTIMANI PANNEERSELVAN>I think, well,
+step zero would be do nothing,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/134-0
+00:15:51.899 --> 00:15:52.379
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/136-1
+00:15:54.722 --> 00:15:58.939
+<v KUTTIMANI PANNEERSELVAN>but I'm gonna change my steps here.
+Step 0 is do nothing.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/137-0
+00:16:00.019 --> 00:16:01.179
+<v KUTTIMANI PANNEERSELVAN>Step one would be.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/138-0
+00:16:03.299 --> 00:16:08.676
+<v KUTTIMANI PANNEERSELVAN>These processes get handed off from
+Laura's employees to IBM contractors to</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/138-1
+00:16:08.676 --> 00:16:12.214
+<v KUTTIMANI PANNEERSELVAN>manage.
+They do the same thing that that Sean and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/138-2
+00:16:12.214 --> 00:16:16.530
+<v KUTTIMANI PANNEERSELVAN>others are doing today.
+They just do it without us having to</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/138-3
+00:16:16.530 --> 00:16:21.059
+<v KUTTIMANI PANNEERSELVAN>worry about it and with presumably less
+expensive labor, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/139-0
+00:16:21.059 --> 00:16:23.831
+<v KUTTIMANI PANNEERSELVAN>That's that's step one, right?
+And then when I say step one,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/139-1
+00:16:23.831 --> 00:16:27.466
+<v KUTTIMANI PANNEERSELVAN>you don't have to go in order, Lucy.
+They're more like steps along a continuum,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/139-2
+00:16:27.466 --> 00:16:27.739
+<v KUTTIMANI PANNEERSELVAN>right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/140-0
+00:16:29.459 --> 00:16:35.698
+<v KUTTIMANI PANNEERSELVAN>Step 2 would be fix the security of what
+we perceive as be data security and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/140-1
+00:16:35.698 --> 00:16:40.964
+<v KUTTIMANI PANNEERSELVAN>privacy vulnerabilities around things
+like not encrypting files,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/140-2
+00:16:40.964 --> 00:16:46.393
+<v KUTTIMANI PANNEERSELVAN>not deleting the files,
+using personal ATU IDs instead of Mac IDs,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/140-3
+00:16:46.393 --> 00:16:48.419
+<v KUTTIMANI PANNEERSELVAN>et cetera. That's that's.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/141-0
+00:16:48.499 --> 00:16:52.367
+<v KUTTIMANI PANNEERSELVAN>That's Step 2, right?
+Which feels like is the sort of thing</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/141-1
+00:16:52.367 --> 00:16:57.718
+<v KUTTIMANI PANNEERSELVAN>like that's a big risk for someone not to
+accept that they need to invest in that,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/141-2
+00:16:57.718 --> 00:16:59.459
+<v KUTTIMANI PANNEERSELVAN>right? Step three would be.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/142-0
+00:17:00.739 --> 00:17:04.536
+<v KUTTIMANI PANNEERSELVAN>On those existing processes,
+automate them so they don't require</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/142-1
+00:17:04.536 --> 00:17:07.748
+<v KUTTIMANI PANNEERSELVAN>manual touch points,
+automate the actual process flow.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/142-2
+00:17:07.748 --> 00:17:11.954
+<v KUTTIMANI PANNEERSELVAN>Kind of like how we talked about,
+I've talked about automating the arms</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/142-3
+00:17:11.954 --> 00:17:15.810
+<v KUTTIMANI PANNEERSELVAN>reconciliation flow, right?
+So that Sean doesn't have to manually</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/142-4
+00:17:15.810 --> 00:17:18.789
+<v KUTTIMANI PANNEERSELVAN>touch stuff,
+we just move it along with kind of an</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/142-5
+00:17:18.789 --> 00:17:19.899
+<v KUTTIMANI PANNEERSELVAN>automated workflow.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/143-0
+00:17:20.659 --> 00:17:26.498
+<v KUTTIMANI PANNEERSELVAN>And then step four would be move all of
+them into an Ask ATT AI type framework</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/143-1
+00:17:26.498 --> 00:17:32.263
+<v KUTTIMANI PANNEERSELVAN>agent framework that users could just
+interact with through through teams for</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/143-2
+00:17:32.263 --> 00:17:35.885
+<v KUTTIMANI PANNEERSELVAN>example.
+Those are like the four steps along the</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/143-3
+00:17:35.885 --> 00:17:37.659
+<v KUTTIMANI PANNEERSELVAN>continuum that and that.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/144-0
+00:17:38.419 --> 00:17:41.139
+<v KUTTIMANI PANNEERSELVAN>I think this breaks down to because I
+don't.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/145-0
+00:17:42.099 --> 00:17:46.332
+<v KUTTIMANI PANNEERSELVAN>I kind of started thinking about that.
+So I'm poser. Does that help, Lucy?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/146-0
+00:17:45.939 --> 00:17:51.579
+<v Curran, Emily Lucille>I guess the part that's that I didn't
+understand is like.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/145-1
+00:17:46.332 --> 00:17:47.179
+<v KUTTIMANI PANNEERSELVAN>The four steps?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/147-0
+00:17:54.419 --> 00:17:56.419
+<v Curran, Emily Lucille>Well, never mind. No, that's.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/152-0
+00:17:57.379 --> 00:18:00.347
+<v KUTTIMANI PANNEERSELVAN>I'll, I'll clearly,
+clearly now I'll find a whiteboard and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/148-0
+00:17:57.539 --> 00:17:59.859
+<v Curran, Emily Lucille>Never mind. I understand. We're good.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/152-1
+00:18:00.347 --> 00:18:04.170
+<v KUTTIMANI PANNEERSELVAN>I'll have them make a slide for this.
+Yeah, this is the really. Yeah, yeah,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/149-0
+00:18:02.259 --> 00:18:06.019
+<v Curran, Emily Lucille>Yeah. No, I think I understand.
+I think I understand. Yeah, I'm good.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/152-2
+00:18:04.170 --> 00:18:08.194
+<v KUTTIMANI PANNEERSELVAN>this should be the color slide. Yeah,
+because I think the only reason I'm going</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/152-3
+00:18:08.194 --> 00:18:11.262
+<v KUTTIMANI PANNEERSELVAN>that route is, Lucy,
+I see a scenario where people might not</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/152-4
+00:18:11.262 --> 00:18:14.331
+<v KUTTIMANI PANNEERSELVAN>want to fund going all the way to this
+ask ATT bot, correct,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/152-5
+00:18:14.331 --> 00:18:17.299
+<v KUTTIMANI PANNEERSELVAN>because they're not sure how it would
+work or they're not.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/153-0
+00:18:17.339 --> 00:18:21.093
+<v KUTTIMANI PANNEERSELVAN>Not sure if it's worth it,
+but I think at a minimum we have to</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/151-0
+00:18:18.779 --> 00:18:19.259
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/153-1
+00:18:21.093 --> 00:18:25.086
+<v KUTTIMANI PANNEERSELVAN>predict security vulnerabilities.
+We can do it ourselves or we can</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/153-2
+00:18:25.086 --> 00:18:30.032
+<v KUTTIMANI PANNEERSELVAN>outsource the whole thing to IBM and let
+them manage it and we move Sean and those</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/153-3
+00:18:30.032 --> 00:18:31.939
+<v KUTTIMANI PANNEERSELVAN>guys up the value stream, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/154-0
+00:18:33.299 --> 00:18:37.657
+<v KUTTIMANI PANNEERSELVAN>So I'm trying to like carve it off where
+you we can make a partial decision and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/154-1
+00:18:37.657 --> 00:18:39.619
+<v KUTTIMANI PANNEERSELVAN>it's not an all or nothing decision.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/155-0
+00:18:41.379 --> 00:18:44.697
+<v Curran, Emily Lucille>Yeah, I mean, that works.
+I think one thing that's kind of excuse</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/155-1
+00:18:44.697 --> 00:18:47.010
+<v Curran, Emily Lucille>me,
+like I think this works for the emulation</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/155-2
+00:18:47.010 --> 00:18:49.373
+<v Curran, Emily Lucille>piece.
+The app piece is different and it's run</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/155-3
+00:18:49.373 --> 00:18:51.686
+<v Curran, Emily Lucille>by the same people, right? So like,
+you know,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/155-4
+00:18:51.686 --> 00:18:53.899
+<v Curran, Emily Lucille>and I feel like the apps are probably
+more.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/156-0
+00:18:55.539 --> 00:19:00.059
+<v Curran, Emily Lucille>Of an actual time suck than the
+emulations. I could be wrong. Um.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/157-0
+00:19:00.339 --> 00:19:02.639
+<v KUTTIMANI PANNEERSELVAN>We could well,
+we could look at doing them too.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/157-1
+00:19:02.639 --> 00:19:06.139
+<v KUTTIMANI PANNEERSELVAN>Or are we thinking we should make the
+decision for all of them together?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/158-0
+00:19:07.059 --> 00:19:11.946
+<v Curran, Emily Lucille>I think the problem with the apps is that
+they're so varied in use case and fooling</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/158-1
+00:19:11.946 --> 00:19:15.728
+<v Curran, Emily Lucille>and and all that stuff.
+So it's just harder for me to look at it</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/158-2
+00:19:15.728 --> 00:19:19.800
+<v Curran, Emily Lucille>like emulation. I mean, I agree,
+I don't have any disagreement there.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/158-3
+00:19:19.800 --> 00:19:22.535
+<v Curran, Emily Lucille>I just,
+I'm wondering how much of those people</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/158-4
+00:19:22.535 --> 00:19:26.259
+<v Curran, Emily Lucille>actually are going to get removed from
+the emulation piece and.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/159-0
+00:19:26.579 --> 00:19:35.459
+<v Curran, Emily Lucille>They're so ingrained in the collections
+world. It's like hard to.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/160-0
+00:19:36.939 --> 00:19:41.640
+<v Curran, Emily Lucille>Imagine. Yeah, I'm, I'm,
+I'm just thinking I'm not making a lot of</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/160-1
+00:19:41.640 --> 00:19:45.429
+<v Curran, Emily Lucille>sense, but this is like what they do,
+the whole team,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/160-2
+00:19:45.429 --> 00:19:49.219
+<v Curran, Emily Lucille>they just manage these apps and these
+emulations, so.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/161-0
+00:19:52.219 --> 00:19:55.259
+<v Curran, Emily Lucille>The apps are seem to be a very big part
+in their day-to-day.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/163-0
+00:19:56.259 --> 00:19:59.441
+<v KUTTIMANI PANNEERSELVAN>Yeah,
+I'm I'm just wondering is whether or not</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/163-1
+00:19:59.441 --> 00:20:04.248
+<v KUTTIMANI PANNEERSELVAN>we should fold in the apps to this
+decision or whether or not it's two</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/163-2
+00:20:04.248 --> 00:20:09.800
+<v KUTTIMANI PANNEERSELVAN>decisions. Like could we, in other words,
+could we hand off the emulations to IBM</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/162-0
+00:20:09.779 --> 00:20:10.099
+<v Curran, Emily Lucille>Yes.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/163-3
+00:20:09.800 --> 00:20:11.019
+<v KUTTIMANI PANNEERSELVAN>but keep the apps?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/164-0
+00:20:12.259 --> 00:20:13.499
+<v Curran, Emily Lucille>Mm-hmm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/165-0
+00:20:25.779 --> 00:20:26.499
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/166-0
+00:20:28.779 --> 00:20:29.459
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/167-0
+00:20:31.779 --> 00:20:31.939
+<v Curran, Emily Lucille>Yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/168-0
+00:20:33.019 --> 00:20:36.828
+<v KUTTIMANI PANNEERSELVAN>Because my guess,
+the apps would have the same 4 steps</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/168-1
+00:20:36.828 --> 00:20:38.699
+<v KUTTIMANI PANNEERSELVAN>along the continuum, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/169-0
+00:20:39.659 --> 00:20:40.139
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/170-0
+00:20:41.059 --> 00:20:41.939
+<v KUTTIMANI PANNEERSELVAN>Do nothing.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/172-0
+00:20:43.339 --> 00:20:47.640
+<v KUTTIMANI PANNEERSELVAN>Transfer it to IBM,
+resolve security vulnerabilities,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/172-1
+00:20:47.640 --> 00:20:52.101
+<v KUTTIMANI PANNEERSELVAN>improve in place,
+or deprecate it into mainstream apps,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/172-2
+00:20:52.101 --> 00:20:52.579
+<v KUTTIMANI PANNEERSELVAN>right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/174-0
+00:20:55.659 --> 00:20:59.330
+<v Curran, Emily Lucille>I mean,
+I think a lot of them over time would</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/174-1
+00:20:59.330 --> 00:21:05.796
+<v Curran, Emily Lucille>hopefully get folded into Intel collect
+and some of them probably could get even</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/173-0
+00:21:05.779 --> 00:21:06.819
+<v KUTTIMANI PANNEERSELVAN>SEC.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/174-2
+00:21:05.796 --> 00:21:10.425
+<v Curran, Emily Lucille>just merged within each other.
+There's there's, you know,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/174-3
+00:21:10.425 --> 00:21:13.379
+<v Curran, Emily Lucille>there's probably lots of opportunity.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/176-0
+00:21:13.659 --> 00:21:18.082
+<v Curran, Emily Lucille>I don't think the business is going to
+like this approach because again,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/176-1
+00:21:18.082 --> 00:21:21.778
+<v Curran, Emily Lucille>they have, they live,
+they work in the same office as Burton</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/176-2
+00:21:21.778 --> 00:21:24.504
+<v Curran, Emily Lucille>team.
+So that's another thing to consider is</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/176-3
+00:21:24.504 --> 00:21:28.019
+<v Curran, Emily Lucille>that I think they like having Burt sit
+next door to them.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/178-0
+00:21:25.499 --> 00:21:28.654
+<v KUTTIMANI PANNEERSELVAN>Well, I think,
+I think Kuri can put people in their</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/178-1
+00:21:28.654 --> 00:21:33.386
+<v KUTTIMANI PANNEERSELVAN>office. Yeah, that's not an issue. We can.
+We needed to. We really needed to.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/177-0
+00:21:30.699 --> 00:21:32.499
+<v Curran, Emily Lucille>Yeah, yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/178-2
+00:21:33.386 --> 00:21:37.694
+<v KUTTIMANI PANNEERSELVAN>But yeah, yeah. But I mean,
+since it's Laura's budget after this year,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/178-3
+00:21:37.694 --> 00:21:39.939
+<v KUTTIMANI PANNEERSELVAN>I don't know necessarily that, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/179-0
+00:21:38.579 --> 00:21:44.050
+<v Curran, Emily Lucille>Yeah, it's not their decision to make.
+I'm just saying like I I could see there</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/179-1
+00:21:44.050 --> 00:21:49.659
+<v Curran, Emily Lucille>being some friction here with this big
+time on the business side, but I could do.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/182-0
+00:21:47.899 --> 00:21:52.034
+<v KUTTIMANI PANNEERSELVAN>Well, I think that's, yeah.
+And I think that's why I'm even thinking</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/182-1
+00:21:52.034 --> 00:21:56.588
+<v KUTTIMANI PANNEERSELVAN>because if let's just say we make the
+decision not to outsource it to Kuti,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/182-2
+00:21:56.588 --> 00:21:59.885
+<v KUTTIMANI PANNEERSELVAN>we still have to resolve the security
+vulnerabilities.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/180-0
+00:21:57.499 --> 00:21:57.979
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/182-3
+00:21:59.885 --> 00:22:04.859
+<v KUTTIMANI PANNEERSELVAN>We still should automate the process and
+we still should pursue and ask ATT agent.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/181-0
+00:22:00.579 --> 00:22:00.699
+<v Curran, Emily Lucille>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/186-0
+00:22:04.859 --> 00:22:07.389
+<v KUTTIMANI PANNEERSELVAN>Like,
+I feel like we should be doing those</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/186-1
+00:22:07.389 --> 00:22:10.213
+<v KUTTIMANI PANNEERSELVAN>things.
+It's a question of whether or not Laura</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/186-2
+00:22:10.213 --> 00:22:14.332
+<v KUTTIMANI PANNEERSELVAN>has enough development resources and
+expertise to go do them herself,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/183-0
+00:22:14.059 --> 00:22:14.579
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/186-3
+00:22:14.332 --> 00:22:18.981
+<v KUTTIMANI PANNEERSELVAN>or whether or whether or not we need to
+outsource. Yeah, of course. Or Corsos.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/184-0
+00:22:16.979 --> 00:22:17.459
+<v Curran, Emily Lucille>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/186-4
+00:22:18.981 --> 00:22:20.099
+<v KUTTIMANI PANNEERSELVAN>Corsos. Yeah, yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/185-0
+00:22:20.139 --> 00:22:21.139
+<v Curran, Emily Lucille>Yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/187-0
+00:22:23.379 --> 00:22:23.539
+<v Curran, Emily Lucille>True.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/188-0
+00:22:23.659 --> 00:22:29.379
+<v KUTTIMANI PANNEERSELVAN>So I think we should make Do you have
+enough information about the apps? Yes,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/188-1
+00:22:29.379 --> 00:22:29.819
+<v KUTTIMANI PANNEERSELVAN>we do.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/189-0
+00:22:30.699 --> 00:22:30.819
+Yes.
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/191-0
+00:22:34.939 --> 00:22:38.378
+<v Bharat Arora>And the way apps and emulations are
+related, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/191-1
+00:22:38.378 --> 00:22:42.610
+<v Bharat Arora>I mean if apps to be treated in a longer
+strategic form, sorry,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/191-2
+00:22:42.610 --> 00:22:46.247
+<v Bharat Arora>if emulations to be treated for longer
+strategic form,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/191-3
+00:22:46.247 --> 00:22:49.819
+<v Bharat Arora>apps should be because apps internally
+sometimes use.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/193-0
+00:22:50.059 --> 00:22:55.793
+<v Bharat Arora>Emulations to be triggered and another
+commonality is all of them touch the</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/193-1
+00:22:55.793 --> 00:22:59.716
+<v Bharat Arora>billers, right?
+So that way we can unify the biller</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/193-2
+00:22:59.716 --> 00:23:02.659
+<v Bharat Arora>access in that particular sense, right?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/192-0
+00:23:01.019 --> 00:23:01.499
+<v KUTTIMANI PANNEERSELVAN>Mhm.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/194-0
+00:23:04.699 --> 00:23:08.181
+<v KUTTIMANI PANNEERSELVAN>OK. Yeah, I'm just,
+I don't know whether or not it makes</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/194-1
+00:23:08.181 --> 00:23:11.419
+<v KUTTIMANI PANNEERSELVAN>sense to have them be two decisions or
+one decision.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/195-0
+00:23:12.579 --> 00:23:15.550
+<v Bharat Arora>Yeah, I'm just saying the relationship.
+There is a relationship.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/195-1
+00:23:15.550 --> 00:23:17.059
+<v Bharat Arora>That's what I'm calling out here.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/196-0
+00:23:18.299 --> 00:23:20.459
+<v KUTTIMANI PANNEERSELVAN>I think what we're saying is.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/199-0
+00:23:22.699 --> 00:23:26.059
+<v KUTTIMANI PANNEERSELVAN>Perhaps we're saying that the emulations
+could be one decision,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/199-1
+00:23:26.059 --> 00:23:29.998
+<v KUTTIMANI PANNEERSELVAN>but we should only move the apps over if
+we also move the emulations over,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/197-0
+00:23:27.819 --> 00:23:27.939
+<v Bharat Arora>OK.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/199-2
+00:23:29.998 --> 00:23:33.779
+<v KUTTIMANI PANNEERSELVAN>since the apps are right now dependent on
+the emulations in some cases.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/198-0
+00:23:33.579 --> 00:23:34.899
+<v Bharat Arora>Yes, that's correct.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/200-0
+00:23:35.819 --> 00:23:39.629
+<v KUTTIMANI PANNEERSELVAN>So that would probably make sense then.
+Like you can do A without B,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/200-1
+00:23:39.629 --> 00:23:42.059
+<v KUTTIMANI PANNEERSELVAN>but if you're gonna do B,
+you need to do A.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/201-0
+00:23:44.419 --> 00:23:50.828
+<v KUTTIMANI PANNEERSELVAN>So we should probably try to tell those
+two stories then the continuum story and</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/201-1
+00:23:50.828 --> 00:23:56.683
+<v KUTTIMANI PANNEERSELVAN>the mutual dependence or independence of
+of the of the two decisions. OK,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/201-2
+00:23:56.683 --> 00:23:58.899
+<v KUTTIMANI PANNEERSELVAN>that Lucy, how's that sound?</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/203-0
+00:23:59.659 --> 00:24:03.174
+<v KUTTIMANI PANNEERSELVAN>I'm thinking from a I'm thinking from a
+strategic architecture,</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/202-0
+00:23:59.899 --> 00:24:00.939
+<v Curran, Emily Lucille>Yeah, it's him.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/203-1
+00:24:03.174 --> 00:24:07.239
+<v KUTTIMANI PANNEERSELVAN>business decision point of view,
+but I'm kinda making it up as I go right</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/203-2
+00:24:07.239 --> 00:24:07.459
+<v KUTTIMANI PANNEERSELVAN>now.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/204-0
+00:24:08.059 --> 00:24:12.139
+<v Curran, Emily Lucille>Yeah, no, no, no concerns with it at all.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/206-0
+00:24:17.259 --> 00:24:21.809
+<v Bharat Arora>Yeah. Thanks, Steve. Thanks.
+I'll find another time once we spin it.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/206-1
+00:24:21.809 --> 00:24:22.139
+<v Bharat Arora>Yeah.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/207-0
+00:24:22.179 --> 00:24:22.379
+<v KUTTIMANI PANNEERSELVAN>Bye.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/208-0
+00:24:22.179 --> 00:24:23.739
+<v Bharat Arora>Thank you so much. Thank you. Bye.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/209-0
+00:24:24.259 --> 00:24:25.819
+<v Curran, Emily Lucille>Thanks everyone.</v>
+
+8733a45b-d421-4bd4-acce-de4b225f74a2/211-0
+00:24:26.059 --> 00:24:26.859
+<v Bharat Arora>Thank you. Bye.</v>
